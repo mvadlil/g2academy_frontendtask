@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron {
+  background-color: #202438;
+  color: #7a7d8c;
+}
+
+.jumbotron h1 {
+  margin-left: 500px;
+  padding: 50px 20px;
+  font-size: 60px;
+}
+
+.jumbotron p {
+  background-color: white;
+}
+
+.jumbotron p span {
+  background-color: #202438;
+  padding: 10px 45px;
+  margin-left: 200px;
+  font-size: x-large;
+}
+
+.profile {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -185px;
+  margin-left: 125px;
+}
+
+.profile img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.job-title {
+  margin-left: 520px;
+  margin-top: -150px;
+  font-size: 40px;
+}
+
+.hr-title {
+  margin-left: 520px;
+  margin-top: 25px;
+  width: 1100px;
+  background-color: grey;
+  border-radius: 10px;
+}
+
+.work-experience {
+  width: 90%;
+  height: auto;
+  background-color: aqua;
+  margin-left: 5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.work-experience .row {
+  width: 100%;
+  height: auto;
+}
+
+.work-experience .row .col-1 {
+  width: 25%;
+  height: auto;
+  background-color: white;
+  float: left;
+  text-align: right;
+}
+
+.work-experience .row .col-1 h2 {
+  padding: 20px;
+}
+
+.work-experience .row .col-1 h3 {
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+.work-experience .row .col-1 h4 {
+  padding-bottom: 25px;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+.work-experience .row .col-2 {
+  width: 75%;
+  height: auto;
+  background-color: #e3e1e3;
+  float: right;
+  padding-bottom: 25px;
+}
+
+.work-experience .row .col-2 h2 {
+  padding: 20px;
+}
+
+.work-experience .row .col-2 .row-in {
+  width: 100%;
+  height: auto;
+}
+
+.work-experience .row .col-2 .row-in .col-2-left {
+  width: 35%;
+  height: auto;
+  float: left;
+}
+
+.work-experience .row .col-2 .row-in .col-2-left h3 {
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+.work-experience .row .col-2 .row-in .col-2-left h4 {
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
+.work-experience .row .col-2 .row-in .col-2-right {
+  width: 65%;
+  height: auto;
+  float: left;
+}
+
+.work-experience .row .col-2 .row-in .col-2-right h3 {
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+
+.work-experience .row .col-2 .row-in .col-2-2 {
+  width: 50%;
+  height: auto;
+  float: left;
+  padding-bottom: 25px;
+}
+
+.work-experience .row .col-2 .row-in .col-2-2 p {
+  padding-left: 15px;
+}
+
+.work-experience .row .col-2 .row-in .col-2-2 h3 {
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.dot-blue {
+  height: 12px;
+  width: 12px;
+  background-color: #202438;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-grey {
+  height: 12px;
+  width: 12px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
