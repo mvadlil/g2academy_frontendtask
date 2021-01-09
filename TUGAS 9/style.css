@@ -1,0 +1,13 @@
+#navbar {
+  /* padding-left: 220pt; */
+  padding-left: 15%;
+}
+
+#totalKendaraan {
+  font-size: 80pt;
+}
+
+#totalMotor,
+#totalMobil {
+  font-size: 60pt;
+}
